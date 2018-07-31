@@ -1,7 +1,7 @@
 
 # DeepLearning 4J Example
 
-This project is an example of a classification using DeepLearning 4J. It is based in the post [A Quick Easy Guide to Deep Learning with Java][opencodez]
+This project is an example of a classification using DeepLearning 4J. It is based in the post [A Quick Easy Guide to Deep Learning with Java][opencodez], therefore all the credit goes to [Pavan Solapure](https://github.com/pavansolapure)
 
 ## Getting Started
 
